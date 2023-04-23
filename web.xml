@@ -2,7 +2,7 @@
 
   <servlet>
     <servlet-name>HelloWorld</servlet-name>
-    <servlet-class>p1</servlet-class>
+    <servlet-class>new</servlet-class>
  </servlet>
  
  <servlet-mapping>
